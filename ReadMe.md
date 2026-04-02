@@ -3,7 +3,11 @@
 
 ## 🐍 Snake Game
 
-![Snake Game](https://raw.githubusercontent.com/oussmac/git-history-game/main/simple-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://oussmac.github.io/git-history-game/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://oussmac.github.io/git-history-game/github-snake.svg" />
+  <img alt="github-snake" src="https://oussmac.github.io/git-history-game/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-imzilene-941a012b4/) 
@@ -21,8 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=oussmac&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/oussmac) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/oussmac) 
