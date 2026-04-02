@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Hey I'm Ouss.<br>💻 I Do Low Level Programming, Mainly C/C++ For Now.<br>🔭 But I Like To Explore All Sorts Of Fields.<br>જ⁀➴ Welcome to My Portfolio, And This Is My Journey.<br>
 
-## 🐍 Snake Game
+## History
 
-![Snake Game](https://raw.githubusercontent.com/oussmac/git-history-game/main/github-snake-static.svg)
+![HS](https://oussmac.github.io/git-history-game/github-snake-static.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-imzilene-941a012b4/) 
