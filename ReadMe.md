@@ -3,11 +3,7 @@
 
 ## 🐍 Snake Game
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://oussmac.github.io/git-history-game/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://oussmac.github.io/git-history-game/github-snake.svg" />
-  <img alt="github-snake" src="https://oussmac.github.io/git-history-game/github-snake.svg" />
-</picture>
+![Snake Game](https://raw.githubusercontent.com/oussmac/git-history-game/main/github-snake.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-imzilene-941a012b4/) 
@@ -27,3 +23,5 @@
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/oussmac) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
