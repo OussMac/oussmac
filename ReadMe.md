@@ -3,7 +3,7 @@
 
 ## 🐍 Snake Game
 
-![Snake Game](https://raw.githubusercontent.com/oussmac/git-history-game/main/github-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/oussmac/git-history-game/main/github-snake-static.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-imzilene-941a012b4/) 
