@@ -3,7 +3,7 @@
 
 ## 🐍 Git History
 
-[![GH](https://raw.githubusercontent.com/USERNAME/REPO/output/github-snake.svg)](https://github.com/USERNAME/REPO)
+[![GH](https://raw.githubusercontent.com/USERNAME/REPO/output/github-snake.svg)](https://github.com/OussMac/git-history-game)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-imzilene-941a012b4/) 
